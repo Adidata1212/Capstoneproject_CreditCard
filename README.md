@@ -13,7 +13,9 @@
   
   [Project](https://github.com/Adidata1212/Capstoneproject_CreditCard/blob/main/CreditCard%20(1).ipynb)
 
-* Data Analysis using MySQL
+* Data Analysis using MySQL : 
+
+  [Sql_File](https://github.com/Adidata1212/Capstoneproject_CreditCard/blob/main/Credit_Card.sql)
   
   
   
